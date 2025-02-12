@@ -1,5 +1,5 @@
 # BERT-PRISM
-Code will be published later.
+Code will be updated later.
 
 ## **Setup environment**
 
