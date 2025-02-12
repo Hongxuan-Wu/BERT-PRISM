@@ -1,0 +1,21 @@
+einops
+transformers==4.29.2
+peft
+omegaconf
+# torch
+evaluate
+accelerate
+tensorboardX
+gpustat==1.0.0
+bioservices
+# ncbi-genome-download
+biopython
+openpyxl
+mygene
+nltk
+torchmetrics
+seaborn
+tensorboard==2.12.0
+scikit-learn
+xgboost
+jupyterlab
