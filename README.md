@@ -1,5 +1,6 @@
 # BERT-PRISM
-Code will be updated later.
+We have published all the key code and expect the simplified version of the executable script to be released by March 20, if you need, please contact our corresponding author: xiaomansun@njnu.edu.cn
+
 
 ## **Setup environment**
 
