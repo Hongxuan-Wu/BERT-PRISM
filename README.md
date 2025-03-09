@@ -1,5 +1,5 @@
 # BERT-PRISM: A Large-Scale Pretrained Model for Prokaryotic Expression Elements Recognition, Intensity, Synthesis, and Modulation
-**We have published key code in this repo. The simplified version of the executable script to be released by March 20.**
+**We have published key code in this repo. The simplified version of the executable script to be released soon.**
 
 BERT-PRISM is a pre-trained model specifically designed for prokaryotic promoters. Compared to other biological foundation models, it achieves comparable performance with significantly fewer parameters, making it highly adaptable for rapid customization to various specific downstream tasks. Furthermore, we have developed an integrated workflow based on this model to efficiently screen highly-expressive artificial promoter sequences and validate their performance by experiments.
 
